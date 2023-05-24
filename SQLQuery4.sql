@@ -1,0 +1,1 @@
+﻿insert into Company values ('ElzeroSchool')
